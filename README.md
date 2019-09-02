@@ -10,6 +10,7 @@ Aqui está minha classe de web Scraper. Não sabia muito bem como aplicar na pá
 * Nome do arquivo
 * Tamanho do arquivo
 
+No caso do arquivo .zip irei também enviar por email por segurança.
 A pasta extraida do "times.zip" deve ser colocada na pasta tmp do linux para que possa abrir as páginas HTML.
 
 Para usar o programa, colocar todos menos o arquivo "times.zip", que deve estar na pasta "tmp" do Linux como havia dito acima. Assim que estiver tudo pronto, abra a pasta na qual você utilizou para colocar tudo no terminal do linux e digite:
